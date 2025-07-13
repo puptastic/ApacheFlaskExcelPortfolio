@@ -1,0 +1,19 @@
+{% extends "layout.html" %}
+{% block content %}
+<form action="/qb_query_x" method="POST">
+    <label for="table_id">Table ID:</label>
+    <input type="text" name="table_id" id="table_id" value="{{ request.form['table_id'] }}">
+    <br>
+    <label for="fid_array_raw">FID Array (CSV):</label>
+    <input type="text" name="fid_array_raw" id="fid_array_raw" value="{{ request.form['fid_array_raw'] }}">
+    <br>
+    <label for="query">Query:</label>
+    <input type="text" name="query" id="query" value="{{ request.form['query'] }}">
+    <input type="Submit" class="file_submit">
+    <div>
+        {% if qb_response %}
+        <p>{{ qb_response}}</p>
+        {% endif %}
+    </div>
+</form>
+{% endblock %}

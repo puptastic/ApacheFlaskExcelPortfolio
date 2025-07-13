@@ -1,0 +1,299 @@
+[
+ {
+   "Record ID#": 1,
+   "Location Name": "A",
+   "Easements?": 0,
+   "%White": 16,
+   "%Asian": 2,
+   "Traffic": 462,
+   "Sales": 5000
+ },
+ {
+   "Record ID#": 2,
+   "Location Name": "B",
+   "Easements?": 0,
+   "%White": 15,
+   "%Asian": 3,
+   "Traffic": 334,
+   "Sales": 4000
+ },
+ {
+   "Record ID#": 3,
+   "Location Name": "C",
+   "Easements?": 0,
+   "%White": 25,
+   "%Asian": 6,
+   "Traffic": 442,
+   "Sales": 3000
+ },
+ {
+   "Record ID#": 4,
+   "Location Name": "D",
+   "Easements?": 0,
+   "%White": 22,
+   "%Asian": 5,
+   "Traffic": 489,
+   "Sales": 2000
+ },
+ {
+   "Record ID#": 5,
+   "Location Name": "E",
+   "Easements?": 0,
+   "%White": 13,
+   "%Asian": 2,
+   "Traffic": 134,
+   "Sales": 1000
+ },
+ {
+   "Record ID#": 6,
+   "Location Name": "F",
+   "Easements?": 0,
+   "%White": 2,
+   "%Asian": 5,
+   "Traffic": 499,
+   "Sales": null
+ },
+ {
+   "Record ID#": 7,
+   "Location Name": "G",
+   "Easements?": 1,
+   "%White": 8,
+   "%Asian": 3,
+   "Traffic": 283,
+   "Sales": null
+ },
+ {
+   "Record ID#": 8,
+   "Location Name": "H",
+   "Easements?": 0,
+   "%White": 9,
+   "%Asian": 7,
+   "Traffic": 318,
+   "Sales": null
+ },
+ {
+   "Record ID#": 9,
+   "Location Name": "I",
+   "Easements?": 0,
+   "%White": 10,
+   "%Asian": 6,
+   "Traffic": 105,
+   "Sales": null
+ },
+ {
+   "Record ID#": 10,
+   "Location Name": "J",
+   "Easements?": 1,
+   "%White": 17,
+   "%Asian": 5,
+   "Traffic": 473,
+   "Sales": null
+ },
+ {
+   "Record ID#": 11,
+   "Location Name": "K",
+   "Easements?": 1,
+   "%White": 23,
+   "%Asian": 3,
+   "Traffic": 112,
+   "Sales": null
+ },
+ {
+   "Record ID#": 12,
+   "Location Name": "L",
+   "Easements?": 1,
+   "%White": 14,
+   "%Asian": 4,
+   "Traffic": 445,
+   "Sales": null
+ },
+ {
+   "Record ID#": 13,
+   "Location Name": "M",
+   "Easements?": 1,
+   "%White": 23,
+   "%Asian": 2,
+   "Traffic": 457,
+   "Sales": null
+ },
+ {
+   "Record ID#": 14,
+   "Location Name": "N",
+   "Easements?": 1,
+   "%White": 14,
+   "%Asian": 6,
+   "Traffic": 439,
+   "Sales": null
+ },
+ {
+   "Record ID#": 15,
+   "Location Name": "O",
+   "Easements?": 1,
+   "%White": 14,
+   "%Asian": 2,
+   "Traffic": 484,
+   "Sales": null
+ },
+ {
+   "Record ID#": 16,
+   "Location Name": "P",
+   "Easements?": 0,
+   "%White": 17,
+   "%Asian": 3,
+   "Traffic": 164,
+   "Sales": null
+ },
+ {
+   "Record ID#": 17,
+   "Location Name": "Q",
+   "Easements?": 0,
+   "%White": 24,
+   "%Asian": 2,
+   "Traffic": 116,
+   "Sales": null
+ },
+ {
+   "Record ID#": 18,
+   "Location Name": "R",
+   "Easements?": 1,
+   "%White": 11,
+   "%Asian": 7,
+   "Traffic": 318,
+   "Sales": null
+ },
+ {
+   "Record ID#": 19,
+   "Location Name": "S",
+   "Easements?": 0,
+   "%White": 3,
+   "%Asian": 3,
+   "Traffic": 485,
+   "Sales": null
+ },
+ {
+   "Record ID#": 20,
+   "Location Name": "T",
+   "Easements?": 0,
+   "%White": 21,
+   "%Asian": 3,
+   "Traffic": 358,
+   "Sales": null
+ },
+ {
+   "Record ID#": 21,
+   "Location Name": "U",
+   "Easements?": 0,
+   "%White": 14,
+   "%Asian": 4,
+   "Traffic": 367,
+   "Sales": null
+ },
+ {
+   "Record ID#": 22,
+   "Location Name": "V",
+   "Easements?": 1,
+   "%White": 14,
+   "%Asian": 4,
+   "Traffic": 57,
+   "Sales": null
+ },
+ {
+   "Record ID#": 23,
+   "Location Name": "W",
+   "Easements?": 0,
+   "%White": 6,
+   "%Asian": 3,
+   "Traffic": 180,
+   "Sales": null
+ },
+ {
+   "Record ID#": 24,
+   "Location Name": "X",
+   "Easements?": 0,
+   "%White": 3,
+   "%Asian": 6,
+   "Traffic": 84,
+   "Sales": null
+ },
+ {
+   "Record ID#": 25,
+   "Location Name": "Y",
+   "Easements?": 1,
+   "%White": 11,
+   "%Asian": 5,
+   "Traffic": 347,
+   "Sales": null
+ },
+ {
+   "Record ID#": 26,
+   "Location Name": "Z",
+   "Easements?": 0,
+   "%White": 14,
+   "%Asian": 4,
+   "Traffic": 320,
+   "Sales": null
+ },
+ {
+   "Record ID#": 27,
+   "Location Name": "AA",
+   "Easements?": 1,
+   "%White": 17,
+   "%Asian": 5,
+   "Traffic": 333,
+   "Sales": null
+ },
+ {
+   "Record ID#": 28,
+   "Location Name": "BB",
+   "Easements?": 0,
+   "%White": 23,
+   "%Asian": 7,
+   "Traffic": 424,
+   "Sales": null
+ },
+ {
+   "Record ID#": 29,
+   "Location Name": "CC",
+   "Easements?": 0,
+   "%White": 19,
+   "%Asian": 3,
+   "Traffic": 466,
+   "Sales": null
+ },
+ {
+   "Record ID#": 30,
+   "Location Name": "DD",
+   "Easements?": 1,
+   "%White": 7,
+   "%Asian": 2,
+   "Traffic": 425,
+   "Sales": null
+ },
+ {
+   "Record ID#": 31,
+   "Location Name": "EE",
+   "Easements?": 0,
+   "%White": 7,
+   "%Asian": 3,
+   "Traffic": 83,
+   "Sales": null
+ },
+ {
+   "Record ID#": 32,
+   "Location Name": "FF",
+   "Easements?": 0,
+   "%White": 20,
+   "%Asian": 3,
+   "Traffic": 180,
+   "Sales": null
+ },
+ {
+   "Record ID#": 33,
+   "Location Name": "GG",
+   "Easements?": 1,
+   "%White": 13,
+   "%Asian": 6,
+   "Traffic": 55,
+   "Sales": null
+ }
+]

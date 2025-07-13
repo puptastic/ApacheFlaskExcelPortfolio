@@ -1,0 +1,18 @@
+{ "data": [
+  { "3": { "value": 1 }, "48": { "value": "2022-01-05" }, "49": { "value": "" }, "50": { "value": "2022-01-06" }, "51": { "value": "2022-01-06" }, "74": { "value": "<span style=\"font-weight: bold; white-space: nowrap;\">01-06-2022</span>" } },
+  { "3": { "value": 2 }, "48": { "value": "2022-01-01" }, "49": { "value": "2022-01-17" }, "50": { "value": "" }, "51": { "value": "2022-01-17" }, "74": { "value": "<span style=\"white-space: nowrap;\">(01-17-2022)</span>" } },
+  { "3": { "value": 3 }, "48": { "value": "" }, "49": { "value": "" }, "50": { "value": "" }, "51": { "value": "" }, "74": { "value": "" } },
+  { "3": { "value": 18 }, "48": { "value": "2022-01-10" }, "49": { "value": "" }, "50": { "value": "" }, "51": { "value": "2022-01-10" }, "74": { "value": "<span style=\"white-space: nowrap;\">(01-10-2022)</span>" } },
+  { "3": { "value": 23 }, "48": { "value": "" }, "49": { "value": "" }, "50": { "value": "" }, "51": { "value": "" }, "74": { "value": "" } },
+  { "3": { "value": 204 }, "48": { "value": "" }, "49": { "value": "" }, "50": { "value": "" }, "51": { "value": "" }, "74": { "value": "" } },
+  { "3": { "value": 205 }, "48": { "value": "2021-11-09" }, "49": { "value": "" }, "50": { "value": "" }, "51": { "value": "2021-11-09" }, "74": { "value": "<span style=\"color: red; white-space: nowrap;\">(11-09-2021)</span>" } },
+  { "3": { "value": 206 }, "48": { "value": "2022-01-03" }, "49": { "value": "" }, "50": { "value": "" }, "51": { "value": "2022-01-03" }, "74": { "value": "<span style=\"color: red; white-space: nowrap;\">(01-03-2022)</span>" } },
+  { "3": { "value": 209 }, "48": { "value": "2021-12-01" }, "49": { "value": "2022-01-02" }, "50": { "value": "" }, "51": { "value": "2022-01-02" }, "74": { "value": "<span style=\"color: red; white-space: nowrap;\">(01-02-2022)</span>" } } ],
+  "fields": [
+    { "id": 3, "label": "Record ID#", "type": "recordid" },
+    { "id": 48, "label": "Initial", "type": "date" },
+    { "id": 49, "label": "Revised", "type": "date" },
+    { "id": 50, "label": "Actual", "type": "date" },
+    { "id": 51, "label": "Milestone (Sort)", "type": "date" },
+    { "id": 74, "label": "Complete Date (rt)", "type": "rich-text" } ],
+  "metadata": { "numFields": 6, "numRecords": 9, "skip": 0, "totalRecords": 9 } }
